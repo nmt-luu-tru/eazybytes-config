@@ -1,0 +1,13 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Accounts Service Prod"
+  contactDetails:
+    name: "John Doe"
+    email: "johndoe@example.com"
+  onCallSupport:
+    - "1800-123-456"
+    - "1800-654-321"
+
