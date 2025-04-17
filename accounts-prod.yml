@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Accounts Service Prod"
   contactDetails:
     name: "John Doe"
-    email: "johndoe@example.com"
+    email: "{cipher}b77c32cc7c85a5dd08fb5bc2addca1a871eaef29da39009f0b138eece109689283e7b9a62d3844258cd3bc7121d22cff"
   onCallSupport:
     - "1800-123-456"
     - "1800-654-321"
