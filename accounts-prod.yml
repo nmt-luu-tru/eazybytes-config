@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Accounts Service Prod"
+  message: "Welcome to Accounts Service"
   contactDetails:
     name: "John Doe"
     email: "{cipher}b77c32cc7c85a5dd08fb5bc2addca1a871eaef29da39009f0b138eece109689283e7b9a62d3844258cd3bc7121d22cff"
