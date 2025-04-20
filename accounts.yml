@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Accounts Service"
+  message: "Welcome to Accounts Service Local"
   contactDetails:
     name: "John Doe"
     email: "johndoe@example.com"
