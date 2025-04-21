@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Accounts Service QA"
+  message: "Welcome to Accounts Service qa"
   contactDetails:
     name: "John Doe"
     email: "johndoe@example.com"
